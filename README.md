@@ -11,6 +11,8 @@
  
  Axios.
 
+ Nodemon.
+
 To install dependencies:
 
 1 - npm i express
