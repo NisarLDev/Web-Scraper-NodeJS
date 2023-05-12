@@ -1,5 +1,6 @@
 # Web-Scrapper-NodeJS
 
+### NodeJS Version used 20.1
 
 ### Bibliography
 --------------------------------------------------------------------
