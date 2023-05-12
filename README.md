@@ -6,8 +6,18 @@
 
 ### Dependencies
  Express.
+ 
  Cheerios.
+ 
  Axios.
+
+To install dependencies:
+
+1 - npm i express
+
+2 - npm i cheerio
+
+3 - npm i axios
 
 ### Bibliography
 --------------------------------------------------------------------
