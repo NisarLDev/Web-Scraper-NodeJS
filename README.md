@@ -25,6 +25,11 @@ To install dependencies:
 
 ### Bibliography
 --------------------------------------------------------------------
+## Essential
+1 - https://www.youtube.com/watch?v=-3lqUHeZs_0
+
+2 - https://github.com/kubowania/nodejs-webscraper
+
 ### For install NodeJS on the Operating System
 
 
@@ -65,3 +70,4 @@ To install dependencies:
 18 - https://expressjs.com/en/starter/installing.html
 
 19 - https://www.npmjs.com/package/express
+
