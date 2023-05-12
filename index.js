@@ -6,4 +6,4 @@ const express = require('express')
 
 const app = express()
 
-app.isten(PORT)
+app.listen(PORT, () => cconsole.log('server running on PORT ${PORT}'))
