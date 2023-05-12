@@ -25,3 +25,5 @@
 9 - https://fedoraproject.org/wiki/Changes/Nodejs18
 
 10 - https://www.knowledgehut.com/blog/web-development/where-does-npm-install-packages
+
+11 - https://stackoverflow.com/questions/5926672/where-does-npm-install-packages
