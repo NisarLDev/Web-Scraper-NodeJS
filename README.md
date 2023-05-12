@@ -11,6 +11,8 @@
  
  Axios.
 
+ Nodemon.
+
 To install dependencies:
 
 1 - npm i express
@@ -18,6 +20,8 @@ To install dependencies:
 2 - npm i cheerio
 
 3 - npm i axios
+
+4 - sudo npm i nodemon -g
 
 ### Bibliography
 --------------------------------------------------------------------
