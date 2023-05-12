@@ -23,3 +23,5 @@
 8 - https://computingforgeeks.com/how-to-install-latest-nodejs-on-centos-fedora/
 
 9 - https://fedoraproject.org/wiki/Changes/Nodejs18
+
+10 - https://www.knowledgehut.com/blog/web-development/where-does-npm-install-packages
