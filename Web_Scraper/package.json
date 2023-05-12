@@ -1,0 +1,19 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Web Scraper With NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NisarLDev/Web-Scrapper-NodeJS.git"
+  },
+  "author": "Nisar Laftissi (NisarLDev)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/NisarLDev/Web-Scrapper-NodeJS/issues"
+  },
+  "homepage": "https://github.com/NisarLDev/Web-Scrapper-NodeJS#readme"
+}
