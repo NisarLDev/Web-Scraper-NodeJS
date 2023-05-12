@@ -57,3 +57,7 @@ To install dependencies:
 14 - https://developer.ibm.com/learningpaths/get-started-nodejs/install-nodejs/
 
 15 - https://fullstackopen.com/en/part3/node_js_and_express
+
+16 - https://hackernoon.com/how-to-setup-a-nodejs-app-with-express-and-typescript
+
+17 - https://expressjs.com/
