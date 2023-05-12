@@ -27,3 +27,5 @@
 10 - https://www.knowledgehut.com/blog/web-development/where-does-npm-install-packages
 
 11 - https://stackoverflow.com/questions/5926672/where-does-npm-install-packages
+
+12 - https://www.digitalocean.com/community/tutorials/how-to-use-npm-to-manage-node-js-packages-on-a-linux-server
