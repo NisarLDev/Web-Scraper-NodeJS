@@ -29,3 +29,5 @@
 11 - https://stackoverflow.com/questions/5926672/where-does-npm-install-packages
 
 12 - https://www.digitalocean.com/community/tutorials/how-to-use-npm-to-manage-node-js-packages-on-a-linux-server
+
+13 - https://linuxopsys.com/topics/list-installed-packages-fedora
