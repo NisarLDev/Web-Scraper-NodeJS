@@ -21,6 +21,8 @@ To install dependencies:
 
 3 - npm i axios
 
+4 - sudo npm i nodemon -g
+
 ### Bibliography
 --------------------------------------------------------------------
 ### For install NodeJS on the Operating System
