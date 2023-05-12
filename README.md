@@ -19,3 +19,5 @@
 6 - https://developer.fedoraproject.org/tech/languages/nodejs/nodejs.html
 
 7 - https://tutorialforlinux.com/2022/09/16/step-by-step-node-js-fedora-37-installation-guide/3/
+
+8 - https://computingforgeeks.com/how-to-install-latest-nodejs-on-centos-fedora/
