@@ -71,3 +71,6 @@ To install dependencies:
 
 19 - https://www.npmjs.com/package/express
 
+### Other Thinks
+
+1 - https://programminghistorian.org/es/lecciones/introduccion-al-web-scraping-usando-r
